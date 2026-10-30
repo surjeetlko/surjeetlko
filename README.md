@@ -18,6 +18,7 @@ I specialize in building and deploying production-ready AI systems with a strong
 * **Cloud & DevOps:** Google Cloud (Dialogflow CX, Gemini Enterprise), Git, Docker Compose
 
 ## 🤝 Let's Connect
+* 🌐 Portfolio: ([https://surjeetsingh.vercel.app/](https://surjeetsingh.vercel.app/))
 * 📧 Email: surjeetlko5@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/surjeet-singh-a13a4ab2/
 
