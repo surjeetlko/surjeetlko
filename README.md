@@ -10,17 +10,37 @@ I specialize in building and deploying production-ready AI systems with a strong
 * **Healthcare IoT Pipelines:** Integrating GE/Philips ECG machines with Hospital Information Systems (HIS) via REST APIs.
 * **Speaking at GDG DevFest Lucknow 2026:** Presenting a session on "Shielding LLMs: Securing Generative AI Deployments."
 
-## 🛠️ Skills & Technologies
-* **Languages:** Python, C++, Bash
-* **AI/ML & Computer Vision:** PyTorch, TensorFlow Lite, YOLO, OpenCV, PaddleOCR, LangChain
-* **Backend & Web:** FastAPI, Flask, Docker, Nginx
-* **IoT & Hardware:** Raspberry Pi, MQTT, Modbus, RS485, TinyTuya
-* **Cloud & DevOps:** Google Cloud (Dialogflow CX, Gemini Enterprise), Git, Docker Compose
+👯 **I'm looking to collaborate on:**
+Open-source Computer Vision projects, Edge AI deployments, and scalable hardware automation systems.
 
-## 🤝 Let's Connect
-* 🌐 Portfolio: ([https://surjeetsingh.vercel.app/](https://surjeetsingh.vercel.app/))
-* 📧 Email: surjeetlko5@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/surjeet-singh-a13a4ab2/
+💬 **Ask me about:**
+Python backend architecture, FastAPI, real-time object detection (YOLO), Edge IoT (Raspberry Pi, RS485, Modbus), and Linux Server Administration.
 
----
-⭐️ *Building the future of edge AI and healthcare tech.*
+⚡ **Fun fact:**
+I am speaking at GDG DevFest Lucknow 2026! Also, I love building DIY hardware automation setups using my Linux workstation.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surjeet-singh-a13a4ab2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surjeetlko5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://surjeetsingh.vercel.app/)
+
+## 💻 Tech Stack:
+
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**AI, ML & Computer Vision**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Tools, DevOps & Hardware**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
