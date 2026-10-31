@@ -46,7 +46,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surjeetlko&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Surjeet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjeetlko&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surjeetlko&show_icons=true&theme=tokyonight&hide_border=true" alt="Surjeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjeetlko&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
